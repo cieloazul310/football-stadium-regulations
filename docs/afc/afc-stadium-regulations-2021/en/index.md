@@ -2,13 +2,13 @@
 
 <https://assets.the-afc.com/migration/a/f/afc-stadium-regulations-edition-2021>
 
-0. Definitions
-1. General Provisions
+0. [Definitions](section-00.md)
+1. [General Provisions](section-01.md)
    1. Scope of Regulations
    2. Responsibilities
    3. Use of Stadium
    4. Location
-2. Areas Relating to the Field of Play
+2. [Areas Relating to the Field of Play](section-02.md)
    5. Field of Play
    6. Warm-up Area
    7. Goalposts, Crossbars and Giant Screens
@@ -18,7 +18,7 @@
    11. Team Benches and Fourth Official Bench
    12. Player Tunnel
    13. Flagpoles
-3. Facilities for the Team Official Delegation and AFC Delegation
+3. [Facilities for the Team Official Delegation and AFC Delegation](section-03.md)
    14. Team Dressing Rooms
    15. Referee Dressing Room
    16. Office Space and Meeting Rooms
@@ -27,7 +27,7 @@
    19. Technical Study Group Seating Area
    20. Video Operation Room
    21. Parking Area for Team Official Delegation and AFC Delegation
-4. Facilities for the Broadcast Partners and Media
+4. [Facilities for the Broadcast Partners and Media](section-04.md)
    22. Media Centre
    23. Media Tribune
    24. Press Conference Room
@@ -42,9 +42,9 @@
    33. Cabling
    34. Observer Seats
    35. Parking Area for Host Broadcasters, Broadcast Partners and the Media
-5. Facilities for Medical and Doping Control
+5. [Facilities for Medical and Doping Control](section-05.md)
    36. Infrastructure requirements
-6. Facilities for Spectators
+6. [Facilities for Spectators](section-06.md)
    37. Spectator Capacity
    38. Stands
    39. Seating
@@ -59,11 +59,11 @@
    48. Facilities for Spectators with Disabilities
    49. Parking for Spectators
    50. VVIP and VIP Parking
-7. Facilities for Commercial Affiliates
+7. [Facilities for Commercial Affiliates](section-07.md)
    51. Promotional Areas
    52. Hospitality Areas and Facilities
    53. Merchandise Stands
-8. Closing Provisions
+8. [Closing Provisions](section-08.md)
    54. Disciplinary Measures
    55. Decisions
    56. Amendments

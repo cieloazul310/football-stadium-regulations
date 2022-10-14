@@ -21,6 +21,9 @@ AFC Stadium Regulations Edition 2021
 AFC Champions League 2022 Competition Regulations  
 <https://assets.the-afc.com/downloads/tournament-regulations/AFC-Champions-League-2022-Competition-Regulations.pdf>
 
+AFC Club Licensing Regulations 2022  
+<https://assets.the-afc.com/downloads/club-licensing/AFC-Club-Licensing-Regulations-2022.pdf>
+
 ## UEFA
 
 UEFA Stadium Infrastructure Regulations  
